@@ -86,6 +86,8 @@ Senior backend developer with **7+ years** of hands-on experience designing and 
  
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Codeception](https://img.shields.io/badge/Codeception-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Excimer](https://img.shields.io/badge/Excimer-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![XHProf](https://img.shields.io/badge/XHProf-777BB4?style=for-the-badge&logo=php&logoColor=white)
  
