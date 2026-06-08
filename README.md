@@ -33,29 +33,37 @@ Senior backend developer with **7+ years** of hands-on experience designing and 
 - 📊 **Analytics ingestion** — services that collect and process high-volume event data
 - 🤝 **Affiliate integrations** — systems for affiliate tracking and partner integrations
 
+
 ---
-
+ 
 ### 🧰 Tech stack
-
+ 
 **Languages**
-
+ 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+ 
 **Frameworks & Runtimes**
-
+ 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Data**
-
+ 
+**Data & Search**
+ 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-
-**Infrastructure**
-
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+ 
+**Infrastructure & DevOps**
+ 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![werf](https://img.shields.io/badge/werf-1F7CE0?style=for-the-badge&logo=werf&logoColor=white)
+ 
+**Profiling & Tooling**
+ 
+![Excimer](https://img.shields.io/badge/Excimer-777BB4?style=for-the-badge&logo=php&logoColor=white)
+ 
 ---
 
 ### 📈 GitHub stats
