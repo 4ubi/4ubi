@@ -63,6 +63,7 @@ Senior backend developer with **7+ years** of hands-on experience designing and 
 **Profiling & Tooling**
  
 ![Excimer](https://img.shields.io/badge/Excimer-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![XHProf](https://img.shields.io/badge/XHProf-777BB4?style=for-the-badge&logo=php&logoColor=white) 
  
 ---
 
