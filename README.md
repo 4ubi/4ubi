@@ -1,3 +1,7 @@
+<a href="https://github.com/siberiacancode">
+  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
+      siberiacancode" align="center"/>
+</a>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alexander+Nomokonov!;" />
 </h1>
