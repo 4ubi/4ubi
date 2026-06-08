@@ -59,8 +59,8 @@ Senior backend developer with **7+ years** of hands-on experience designing and 
 ### 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4ubi&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ubi&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160" />
 </p>
 
 ---
